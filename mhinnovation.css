@@ -1,0 +1,285 @@
+html{
+   
+}
+body{
+ 
+    overflow-x: hidden;
+}
+.second-nav{
+    margin-top: 2re;
+    z-index: -1;
+    
+}
+.first-nav{
+z-index: 1;
+position: relative;
+}
+
+.navbar{
+ height: 7rem;
+ background-color: white;
+
+        
+}
+.navbar h6{
+    margin-top: 3rem;
+}
+.navbar-brand{
+    margin-bottom: -4rem;
+    text-align: center;
+    display: flex;
+    margin-left: 4rem;
+    position: relative;
+}
+.navbar-nav{
+    margin-top: 4.2rem;
+    margin-left:29rem;
+    font-weight: 900;
+    
+    
+}
+.first-nav.navbar ul{
+    margin-top: 25rem;
+}
+.first{
+    border-top: 1px solid silver; 
+    border-left: 1px solid silver;
+    border-bottom: 1px solid silver;
+    
+}
+.second{
+    border-top: 1px solid silver;
+    border-left: 1px solid silver;
+    border-bottom: 1px solid silver;
+    
+}
+
+.third{
+    border-top: 1px solid silver;
+    border-right: 1px solid silver;
+    border-left: 1px solid silver;
+    border-bottom: 1px solid silver;
+    text-decoration-color: slateblue;
+   
+    
+}
+.fourth{
+    border-top: 1px solid silver;
+    border-right: 1px solid silver;
+    
+    border-bottom: 1px solid silver;
+    
+}
+
+.fifth{
+    border-top: 1px solid silver;
+    border-right: 1px solid silver;
+    
+    border-bottom: 1px solid silver;
+    
+}
+
+.sixth{
+    border-top: 1px solid silver;
+    border-right: 1px solid silver;
+   
+    border-bottom: 1px solid silver;
+    
+}
+
+.seventh{
+    border-top: 1px solid silver;
+    border-right: 1px solid silver;
+    border-bottom: 1px solid silver;
+    background-color: orange;
+    
+}
+
+.search{
+
+    margin-top: 5rem;
+    margin-bottom: 4rem;
+    margin-right: 8rem;
+    
+   
+}
+ #searchtrm{
+    width: 8rem;
+    height: 2rem;
+}
+
+.btn-custom{
+    background-color: white;
+    border-bottom: 1px solid silver;
+    border-right: 1px solid silver;
+    border-bottom: 1px solid silver;
+    border-top: 1px solid silver;
+    width: 3rem;
+    height: 2rem;
+}
+
+.logo{
+ 
+    z-index: 1;
+}
+
+
+
+
+.side-carousel{
+    width: 34rem;
+    padding-top: 0rem;
+    margin-top: 0rem;
+    
+}
+.f-border{
+    margin-left: 14rem;
+    margin-top: 5rem;
+    background-color: rgb(253, 251, 251);
+    border-left:5px solid rgb(231, 151, 3);
+    text-align: left;
+    padding: 8px;
+    line-height: 5px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    
+    
+}
+.f-border p{
+    margin-top: 9px;
+}
+.s-border p{
+    margin-top: 9px;
+}
+.t-border p{
+    margin-top: 9px;
+}
+.k-border p{
+    margin-top: 9px;
+}
+.f-border h4{
+    font-weight: 900;
+}
+.s-border h4{
+    font-weight: 900;
+}
+.t-border h4{
+    font-weight: 900;
+}
+.k-border h4{
+   font-weight: 900;
+}
+.s-border{
+    margin-left: 14rem;
+    margin-top: 0;
+    background-color: rgb(253, 251, 251);
+    border-left:5px solid rgb(231, 151, 3);
+    text-align: left;
+    padding: 8px;
+    line-height: 5px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.t-border{
+    margin-left: 14rem;
+    margin-top: 0;
+    background-color: rgb(253, 251, 251);
+    border-left:5px solid rgb(13, 36, 247);
+    text-align: left;
+    padding: 8px;
+    line-height: 5px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.k-border{
+    margin-left: 14rem;
+    margin-top: 0;
+    background-color: rgb(253, 251, 251);
+    border-left:5px solid rgb(3, 166, 231);
+    text-align: left;
+    padding: 8px;
+    line-height: 5px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.logo{
+    margin-bottom: 2.9rem;
+    margin-left: 14rem;
+   
+   
+   
+   
+    
+}
+.google,
+.google img{
+    background-color: rgb(255, 38, 0);
+    border-radius: 100%;
+    height: 1.8rem;
+    width: 1.8rem;
+}
+.face,
+.face img{
+    background-color: rgb(3, 64, 134);
+    border-radius: 100%;
+    height: 1.8rem;
+    width: 1.8rem;
+}
+.twi,
+.twi img{
+    background-color: rgb(51, 190, 245);
+    border-radius: 100%;
+    height: 1.8rem;
+    width: 1.8rem;
+}
+.you,
+.you img{
+    background-color: rgb(255, 0, 0);
+    border-radius: 100%;
+    height: 1.8rem;
+    width: 1.8rem;
+}
+.rss,
+.rss img{
+    background-color: rgb(253, 155, 7);
+    border-radius: 100%;
+    height: 1.8rem;
+    width: 1.8rem;
+}
+.login{
+    text-align: center;
+    font-size: 15px;
+}
+.col-md-4{
+    width: 7rem;
+    padding-left: ;
+}
+.text-dark a{
+    float: right;
+    font-size: 18px;
+    color: orange;
+    margin-top: 15px;
+    font-weight: 900;
+  
+}
+
+.album{
+    background-color: white;
+    margin-left:0px ;
+    padding-right: 15rem;
+    padding-left: 15rem;
+}
+.card-body{
+    border-top: 10px solid orange;
+    border-bottom: 1px solid silver;
+    border-right: 1px solid silver;
+    border-bottom: 1px solid silver;
+}
+footer{
+    background-color: orange;
+    width: 100%;
+}
+.container{
+    margin: 0;
+    width: 100%;
+}
